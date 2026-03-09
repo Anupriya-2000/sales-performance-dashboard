@@ -36,5 +36,5 @@ This project is an Excel-based dashboard that analyzes sales performance across 
 - **UPI payments** dominate overall transactions.
 
 ## Dashboard Screenshot
-[!Sales_Dashboard](Sales_Dashboard.png)
+[!Sales_Dashboard]<img width="1820" height="834" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/4ddecf07-ed23-4e54-b189-ac68bcc9b74f" />
 
