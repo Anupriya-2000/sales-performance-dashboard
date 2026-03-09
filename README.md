@@ -33,6 +33,8 @@ This project is an Excel-based dashboard that analyzes sales performance across 
 ## Insights
 - **Laptops** generate the highest revenue.  
 - **Delhi** leads in city-wise sales.  
-- **UPI payments** dominate overall transactions.  
+- **UPI payments** dominate overall transactions.
 
+## Dashboard Screenshot
+[!Sales_Dashboard](Sales_Dashboard.png)
 
